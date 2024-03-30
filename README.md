@@ -3,7 +3,7 @@
 <ins><div align="center">I am passionate about programming and development, studying backend and machine learning in python, writing my favorite projects and practicing my skills.</div></ins>
 
 ## My skills
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="100%">
 
 💪 Skills: Python, ML, Backend, SQL, HTML  
   
