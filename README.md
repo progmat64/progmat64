@@ -10,8 +10,7 @@
   
 🛠 Tools: VS Code, PyCharm, Git, Postman  
   
-📖 I am currently studying: machine learning and web development  
-
+📖 I study: Machine learning and web development  
 
 </td><td valign="top" width="50%">
 
