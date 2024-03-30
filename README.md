@@ -1,18 +1,15 @@
 # <div align="center">Hi 👋 my name is Alex! I am currently a beginner python developer 👨‍💻</div>  
   
-<ins><div align="center">I am passionate about programming and development, studying backend and machine learning in Python, writing my favorite projects and practicing my skills.</div></ins>  
-  
+<ins><div align="center">I am passionate about programming and development, studying backend and machine learning in python, writing my favorite projects and practicing my skills.</div></ins>
 <br/>  
 
-## My Skill Set  
+## My skills
 <table><tr><td valign="top" width="50%">
 
 💪 Skills: Python, ML, Backend, SQL, HTML  
   
-
 🛠 Tools: VS Code, PyCharm, Git, Postman  
   
-
 📖 I am currently studying: machine learning and web development  
 
 
@@ -37,8 +34,4 @@
 
 ## Connect with me  
 Email: am6400@yandex.ru
-
-Telegram: @alematv  
-  
-
-<br/>
+Telegram: @alematv
