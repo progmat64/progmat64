@@ -1,11 +1,8 @@
-## <div align="center">Hi 👋 my name is Alex! I am currently a beginner python developer 👨‍💻</div>  
+# <div align="center">Hi 👋 my name is Alex! I am currently a beginner python developer 👨‍💻</div>  
   
-
 <ins><div align="center">I am passionate about programming and development, studying backend and machine learning in Python, writing my favorite projects and practicing my skills.</div></ins>  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -44,26 +41,4 @@ Email: am6400@yandex.ru
 Telegram: @alematv  
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
