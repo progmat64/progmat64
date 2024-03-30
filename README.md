@@ -1,7 +1,6 @@
 # <div align="center">Hi 👋 my name is Alex! I am currently a beginner python developer 👨‍💻</div>  
   
 <ins><div align="center">I am passionate about programming and development, studying backend and machine learning in python, writing my favorite projects and practicing my skills.</div></ins>
-<br/>  
 
 ## My skills
 <table><tr><td valign="top" width="50%">
@@ -28,9 +27,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## Connect with me  
 Email: am6400@yandex.ru
+
 Telegram: @alematv
