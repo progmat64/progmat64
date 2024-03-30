@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋 my name is Alex! I am currently a beginner python developer 👨‍💻</div>  
   
-<ins><div align="center">I am passionate about programming and development, studying backend and ML in python, writing my favorite projects and practicing my skills.</div></ins>
+<ins><div align="center" style="font-size: 20px;">I am passionate about programming and development, studying backend and ML in python, writing my favorite projects and practicing my skills.</div></ins>
 
 ## My skills
 <table><tr><td valign="top" width="50%">
