@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋 my name is Alex! I am currently a beginner python developer 👨‍💻</div>  
+# <div align="center">Hi 👋 my name is Alex! I am currently a beginner Python developer 👨‍💻</div>  
   
 <ins><div align="center">I am passionate about programming and creating software products. I am interested in developing the backend and machine learning in the Python programming language. I am working on my own projects and constantly improving my skills.</div></ins>
 
