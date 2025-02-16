@@ -1,15 +1,15 @@
-# <div align="center">Hi 👋 my name is Alex! I am currently a beginner Python developer 👨‍💻</div>  
+# <div align="center">Hi 👋 my name is Aleksandr! I am a Python developer 👨‍💻</div>  
   
-<ins><div align="center">I am passionate about programming and creating software products. I am interested in developing the backend and machine learning in the Python programming language. I am working on my own projects and constantly improving my skills.</div></ins>
+<ins><div align="center">I am passionate about programming and creating software products. My main interests are backend development and machine learning in Python. I am constantly improving my skills and working on my own and collaborative projects.</div></ins>
 
 ## My skills
 <table><tr><td valign="top" width="50%">
 
-💪 Skills: Python, ML, Backend, SQL, HTML  
+💪 Skills: Python, Backend, ML, Automation Testing, SQL, HTML  
   
-🛠 Tools: VS Code, PyCharm, Git, Postman  
-  
-📖 I study: ML and web development  
+🛠 Tools: VS Code, PyCharm, Git, Postman
+
+📖 I study: Web development and ML
 
 </td><td valign="top" width="50%">
 
@@ -23,6 +23,10 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.selenium.dev/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium-original.svg" alt="Selenium" height="50" />
+</a>
+
 
 </div>
 
