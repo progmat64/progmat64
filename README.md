@@ -32,11 +32,11 @@
 </td></tr></table>  
 
 ## Education
-🎓 Bachelor's degree in Computer Science and Engineering (expected release year 2025)  — St. Petersburg State University of Aerospace Instrumentation 
+🎓 Bachelor’s degree in Computer Science and Engineering (expected 2025) — St. Petersburg State University of Aerospace Instrumentation 
 
 **Professional development**  
-📚  Project management of development programs — Bauman Moscow State Technical University (2025)  
-📚  Frontiers of applied artificial intelligence: industry, economics, education — ITMO University (2023)
+📚  Project Management of Development Programs — Bauman Moscow State Technical University (2025)  
+📚  Frontiers of Applied Artificial Intelligence: Industry, Economics, and Education — ITMO University (2023)
 
 ## Connect with me  
 Email: am6400@yandex.ru
