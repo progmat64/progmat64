@@ -34,7 +34,7 @@
 ## Education
 🎓 St. Petersburg State University of Aerospace Instrumentation — Bachelor's degree in Computer Science and Engineering (expected release year 2025)
 
-###### Professional development  
+**Professional development**  
 📚  Project Management of development programs — Bauman Moscow State Technical University (2025)  
 📚  Frontiers of Applied Artificial Intelligence: Industry, Economics, education — ITMO University (2023)
 
