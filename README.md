@@ -5,7 +5,7 @@
 ## My skills
 <table><tr><td valign="top" width="50%">
 
-💪 Skills: Python, Backend, ML, Automation Testing, SQL, HTML  
+💪 Skills: Python, Backend, ML, Automation Testing
   
 🛠 Tools: VS Code, PyCharm, Git, Postman
 
