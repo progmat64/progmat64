@@ -43,26 +43,6 @@ Specializing in <b>RAG pipelines</b>, <b>semantic & hybrid search</b>, and <b>ML
 <img src="https://img.shields.io/badge/Linux-0B3C49?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-## Featured Work
-
-### RAG for Enterprise Document Intelligence
-
-* Hybrid retrieval (BM25 + embeddings)
-* LLM-based answer verification & confidence scoring
-* Traceability and audit-friendly pipelines
-
-### Large-Scale Semantic Search
-
-* FAISS ANN indexes
-* Custom ranking & scoring logic
-* Multilingual document support
-
-### ML / LLM Backend Services
-
-* FastAPI-based microservices
-* Dockerized deployments
-* PostgreSQL-backed pipelines
-
 
 ## Education
 
