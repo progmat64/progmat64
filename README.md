@@ -4,31 +4,10 @@
 
 </div>
 
----
-
-<div align="center">
-
-### ML / LLM Engineer · Python Backend
-
-**Production-grade AI systems · Search · RAG**
-
-</div>
-
 <p align="center">
-I design and ship <b>LLM-powered products</b> with a strong engineering mindset.<br/>
-Specializing in <b>RAG pipelines</b>, <b>semantic & hybrid search</b>, and <b>ML backends</b>.<br/>
-Focused on taking ideas from <b>research → production</b>.
+I design and ship <b>LLM-powered products</b> with a strong engineering mindset<br/>
+Specializing in <b>RAG pipelines</b>, <b>semantic & hybrid search</b>, and <b>ML backends</b><br/>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=720&lines=Retrieval-Augmented+Generation;Semantic+%26+Hybrid+Search;LLM+Reasoning+Pipelines;Production+ML+Backends" />
-
-</div>
-
----
 
 ## What I build
 
@@ -38,9 +17,7 @@ Focused on taking ideas from <b>research → production</b>.
 ▸ LLM reasoning, verification & scoring pipelines
 ▸ Backend services for ML / LLM products
 ▸ Scalable, production-ready APIs
-````
-
----
+```
 
 ## Core Tech Stack
 
@@ -66,29 +43,26 @@ Focused on taking ideas from <b>research → production</b>.
 <img src="https://img.shields.io/badge/Linux-0B3C49?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
-
 ## Featured Work
 
-### 🧠 RAG for Enterprise Document Intelligence
+### RAG for Enterprise Document Intelligence
 
 * Hybrid retrieval (BM25 + embeddings)
 * LLM-based answer verification & confidence scoring
 * Traceability and audit-friendly pipelines
 
-### 🔎 Large-Scale Semantic Search
+### Large-Scale Semantic Search
 
 * FAISS ANN indexes
 * Custom ranking & scoring logic
 * Multilingual document support
 
-### ⚙️ ML / LLM Backend Services
+### ML / LLM Backend Services
 
 * FastAPI-based microservices
 * Dockerized deployments
 * PostgreSQL-backed pipelines
 
----
 
 ## Education
 
@@ -99,7 +73,6 @@ Focused on taking ideas from <b>research → production</b>.
 **Saint Petersburg State University of Aerospace Instrumentation**
 *Computer Science and Engineering*
 
----
 
 ## Contact
 
@@ -111,25 +84,3 @@ Focused on taking ideas from <b>research → production</b>.
 <img src="https://img.shields.io/badge/Telegram-@alematv-00C9A7?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4DB,100:00C9A7&height=3&section=footer" />
-
-</div>
-```
-
----
-
-### Хочешь ещё лучше?
-
-Могу:
-
-* 🔥 сделать **более «senior / staff» версию**
-* 💼 адаптировать под **EU / US hiring**
-* 🧪 добавить блок **“Engineering philosophy”**
-* 📊 встроить GitHub stats в том же цвете
-
-Просто скажи, под какую цель README.
